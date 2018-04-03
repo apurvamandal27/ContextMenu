@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Context Menu</string>
+
+    <string-array name="myarray">
+        <item>Android</item>
+        <item>Java</item>
+        <item>Php</item>
+        <item>Kotlin</item>
+    </string-array>
+
+</resources>
